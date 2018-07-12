@@ -411,7 +411,6 @@
   .search-filter {
     opacity: 0;
     display: none;
-    overflow: hidden;
     transition: all 0.28s ease-out;
     &.active {
       opacity: 1;

@@ -9,6 +9,7 @@ import 'iview/dist/styles/iview.css';
 import VueI18n from 'vue-i18n';
 import util from './libs/util';
 import api from './api/index.js';
+
 Vue.use(api);
 
 Vue.use(VueI18n);
